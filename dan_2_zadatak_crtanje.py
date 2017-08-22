@@ -6,3 +6,4 @@ def kvadrat(dimenzije, simbol="#"):
             print(simbol + " " *(dimenzije-2) + simbol)
 
 kvadrat(5)
+remote local master
