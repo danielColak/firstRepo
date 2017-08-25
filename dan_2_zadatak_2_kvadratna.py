@@ -3,7 +3,7 @@ def main():
     b = float(raw_input("Unesite linearni clan b: "))
     c = float(raw_input("Unesite slobodni clan c: "))
 
-# modification on master
+# modification to create new branch
     quadratic_equation_solution(a, b, c)
 
 
