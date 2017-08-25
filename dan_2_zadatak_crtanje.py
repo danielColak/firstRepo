@@ -9,3 +9,4 @@ kvadrat(5)
 remote master
 
 # Modifikacije na lokalnoj grani
+#New content added on branch
