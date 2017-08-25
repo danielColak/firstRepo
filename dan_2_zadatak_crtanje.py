@@ -8,4 +8,4 @@ def kvadrat(dimenzije, simbol="#"):
 kvadrat(5)
 remote master
 
-# Mifilqkacije na masteru grani
+# Modifikacije na lokalnoj grani
