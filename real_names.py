@@ -13,7 +13,7 @@ class Welcome:
         self.libraryProjectHyperlinkLink = "{caption='Proiect de librarie' repo='Am adaugat ceva remote' pore='dodato da ide na remote' container=" + self.libraryProjectHyperlink + " styletype='text' visible='true'}"
         self.installPackageHyperlink = "{caption='Install Package' id='installPackage' styletype='hyperlink hyperlinkWelcomeWhite' visible='true' window=" + self.welcomeWindow + "}"
         self.installPackageHyperlinkLink = "{caption='modifikacije na grani' container=" + self.welcomeWindow + " styletype='text' visible='true'}"
-        self.noInstallPackageLabel = "{caption='ovo su modifikacije na masteru' id='OVO DOLAZI SA LOCALA' styletype='scs-label-package-error scs-label-package-error' visible='true' window= " + self.welcomeWindow + "}"
+        self.noInstallPackageLabel = "{caption='modifikacije na grani' id='OVO DOLAZI SA LOCALA' styletype='scs-label-package-error scs-label-package-error' visible='true' window= " + self.welcomeWindow + "}"
         self.closeWelcome = "{caption='X' styletype='label scs-closeLabel' visible='true' window=" + self.welcomeWindow + "}"
         self.confirmCheckBox = "{caption='Don\\'t show again' styletype='check-box' visible='true' window=" + self.confirmShell + "}"
         self.markConfirmCheckBox = "{container=" + self.confirmCheckBox + " styletype='mark' visible='true'}"
