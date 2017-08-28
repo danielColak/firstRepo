@@ -9,7 +9,7 @@ class Welcome:
         self.libraryProjectHyperlink = "{caption='Library Project' id='libraryPanelWizardLink' styletype='hyperlink' visible='true' window=" + self.welcomeWindow + "}"
         self.devicePanelProjectHyperlinkLink = "{caption='Device Panel Project' container=" + self.devicePanelProjectHyperlink + " styletype='text' visible='true'}"
         self.systemPanelProjectHyperlinkLink = "{caption='System Panel Project' container=" + self.systemPanelProjectHyperlink + " styletype='text' visible='true'}"
-        self.libraryProjectHyperlinkLink = "{caption='Proiect de librarie' pore='dodato da ide na remote' container=" + self.libraryProjectHyperlink + " styletype='text' visible='true'}"
+        self.libraryProjectHyperlinkLink = "{caption='Proiect de librarie' repo='Am adaugat ceva remote' pore='dodato da ide na remote' container=" + self.libraryProjectHyperlink + " styletype='text' visible='true'}"
         self.installPackageHyperlink = "{caption='Install Package' id='installPackage' styletype='hyperlink hyperlinkWelcomeWhite' visible='true' window=" + self.welcomeWindow + "}"
         self.installPackageHyperlinkLink = "{caption='Install Package' container=" + self.welcomeWindow + " styletype='text' visible='true'}"
         self.noInstallPackageLabel = "{caption='OVO DOLAZI SA REMOTE' id='OVO DOLAZI SA LOCALA' styletype='scs-label-package-error scs-label-package-error' visible='true' window= " + self.welcomeWindow + "}"
