@@ -1,7 +1,7 @@
 def main():
-    a = float(raw_input("Unesite kvadratni clan a: "))
-    b = float(raw_input("Unesite linearni clan b: "))
-    c = float(raw_input("Unesite slobodni clan c: "))
+    a = float(raw_input("Unesite prvi clan a: "))
+    b = float(raw_input("Unesite drugi clan b: "))
+    c = float(raw_input("Unesite treci clan c: "))
 
 # modification to create new branch
     quadratic_equation_solution(a, b, c)
