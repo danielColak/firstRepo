@@ -2,17 +2,18 @@ class Welcome:
     """
     The class Welcome contains all real names of buttons, fields and hyperlinks from Welcome Screen. With Welcome.nameOfGetMethod() we call them.
     """
-    def __init__(self, branch, branch, branch, branch):
-        self.Window = "{caption='' isvisible='ovi nije bas true' type='org.eclipse.swt.widgets.Shell'}"
-        self.devicePanelProjectHyperlink = "{caption='Divajs' id='devicePanelWizardLink' styletype='hyperlink' visible='true' window=" + self.welcomeWindow + "}"
+
+    def __init__(self):
+        self.welcomeWindow = "{caption='' isvisible='ovo su modifikacije na masteru' type='org.eclipse.swt.widgets.Shell'}"
+        self.devicePanelProjectHyperlink = "{caption='Divajs' id='ovo su modifikacije na masteru' styletype='hyperlink' visible='true' window=" + self.welcomeWindow + "}"
         self.systemPanelProjectHyperlink = "{caption='System' id='systemPanelWizardLink' styletype='hyperlink' visible='true' window=" + self.welcomeWindow + "}"
         self.libraryProjectHyperlink = "{caption='Library Project' id='libraryPanelWizardLink' styletype='hyperlink' visible='true' window=" + self.welcomeWindow + "}"
-        self.devicePanelProjectHyperlinkLink = "{caption='Device Panel Project' container=" + self.devicePanelProjectHyperlink + " styletype='text' visible='true'}"
-        self.systemPanelProjectHyperlinkLink = "{caption='System Panel Project' container=" + self.systemPanelProjectHyperlink + " styletype='text' visible='true'}"
-        self.ProjectHyperlinkLink = "{caption='Proiect de librarie' repo='Am adaugat ceva remote' pore='dodato da ide na remote' container=" + self.libraryProjectHyperlink + " styletype='text' visible='true'}"
+        self.devicePanelProjectHyperlinkLink = "{caption='ovo su modifikacije na masteru' container=" + self.devicePanelProjectHyperlink + " styletype='text' visible='true'}"
+        self.systemPanelProjectHyperlinkLink = "{caption='ovo su modifikacije na masteru' container=" + self.systemPanelProjectHyperlink + " styletype='text' visible='true'}"
+        self.libraryProjectHyperlinkLink = "{caption='Proiect de librarie' repo='Am adaugat ceva remote' pore='dodato da ide na remote' container=" + self.libraryProjectHyperlink + " styletype='text' visible='true'}"
         self.installPackageHyperlink = "{caption='Install Package' id='installPackage' styletype='hyperlink hyperlinkWelcomeWhite' visible='true' window=" + self.welcomeWindow + "}"
-        self.PackageHyperlinkLink = "{caption='Install Package' container=" + self.welcomeWindow + " styletype='text' visible='true'}"
-        self.noInstallPackageLabel = "{caption='OVO DOLAZI SA REMOTE' id='OVO DOLAZI SA LOCALA' styletype='scs-label-package-error scs-label-package-error' visible='true' window= " + self.welcomeWindow + "}"
+        self.installPackageHyperlinkLink = "{caption='Install Package' container=" + self.welcomeWindow + " styletype='text' visible='true'}"
+        self.noInstallPackageLabel = "{caption='ovo su modifikacije na masteru' id='OVO DOLAZI SA LOCALA' styletype='scs-label-package-error scs-label-package-error' visible='true' window= " + self.welcomeWindow + "}"
         self.closeWelcome = "{caption='X' styletype='label scs-closeLabel' visible='true' window=" + self.welcomeWindow + "}"
         self.Shell = "{caption='' isvisible='true' type='org.eclipse.swt.widgets.Shell'}"
         self.confirmCheckBox = "{caption='Don\\'t show again' styletype='check-box' visible='true' window=" + self.confirmShell + "}"
