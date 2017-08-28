@@ -4,7 +4,7 @@ class Welcome:
     """
     def __init__(self):
         self.welcomeWindow = "{caption='' isvisible='true' type='org.eclipse.swt.widgets.Shell'}"
-        self.devicePanelProjectHyperlink = "{caption='Device' id='devicePanelWizardLink' styletype='hyperlink' visible='true' window=" + self.welcomeWindow + "}"
+        self.devicePanelProjectHyperlink = "{caption='Divajs' id='devicePanelWizardLink' styletype='hyperlink' visible='true' window=" + self.welcomeWindow + "}"
         self.systemPanelProjectHyperlink = "{caption='System' id='systemPanelWizardLink' styletype='hyperlink' visible='true' window=" + self.welcomeWindow + "}"
         self.libraryProjectHyperlink = "{caption='Library Project' id='libraryPanelWizardLink' styletype='hyperlink' visible='true' window=" + self.welcomeWindow + "}"
         self.devicePanelProjectHyperlinkLink = "{caption='Device Panel Project' container=" + self.devicePanelProjectHyperlink + " styletype='text' visible='true'}"
