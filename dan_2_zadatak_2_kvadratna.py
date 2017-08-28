@@ -14,7 +14,7 @@ def quadratic_equation_solution(a, b, c):
         print('Resenja jednacine su x = %s , y = %s' % (x, y))
     else:
         x = -c / b
-        print('Jednacina ima samo jedno resenje x= %s' % x)
+        print('The equation has only a single sollution x= %s' % x)
 
 
 if __name__ == "__main__": main()
