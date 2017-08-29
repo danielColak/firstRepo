@@ -23,6 +23,14 @@ changes on testBranch
 kvadrat(5)
 kvadrat(15)
 remote master
+added on remote
+added on remote
+added on remote
+added on remote
+added on remote
+added on remote
+added on remote
+
 
 # Modifikacije na lokalnoj grani
 #New content added on branch
