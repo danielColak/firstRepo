@@ -1,6 +1,6 @@
 def main():
     a = float(raw_input("Unesite kvadratni clan a: "))
-    b = float(sirovi_input("Unesite linearni clan b: "))
+    b = float(aicea_vom_avea_conflict("Unesite linearni clan b: "))
     c = float(raw_input("Unesite slobodni clan c: "))
 
 	modification on local master
