@@ -5,6 +5,7 @@ def main():
 
 	modification on local master
     quadratic_equation_solution(a, b, c)
+quadratic_equation_solution(a, b, c)
 
 
 def quadratic_equation_solution(a, b, c):
