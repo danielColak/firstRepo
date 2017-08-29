@@ -25,3 +25,5 @@ class Welcome:
         self.recentProjectsListView = "{id='recentProjectsListView' styletype='list-view' visible='true' window=" + self.welcomeWindow + "}"
         self.welcomeCheckBox = "{caption='Always show at startup' id='alwaysShowOnStartupCheckbox' styletype='check-box white-check-box' visible='true' window=" + self.welcomeWindow + "}"
         self.recentProject = "{container=" + self.recentProjectsListView + " styletype='cell indexed-cell list-cell' visible='true'}"
+		self.welcomeCheckBox = "{caption='Always show at startup' id='alwaysShowOnStartupCheckbox' styletype='check-box white-check-box' visible='true' window=" + self.welcomeWindow + "}"
+        self.recentProject = "{container=" + self.recentProjectsListView + " styletype='cell indexed-cell list-cell' visible='true'}"
