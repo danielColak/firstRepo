@@ -10,7 +10,7 @@ def fibonacci(n):
         f2 = f1
         f1 = f
         clan_Niza = clan_Niza + 1
-    return
+    vrati
 
 
 
