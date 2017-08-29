@@ -21,6 +21,7 @@ changes on testBranch
 			print(simbol + " " *(dimenzije-5) + simbol)
 
 kvadrat(5)
+kvadrat(15)
 remote master
 
 # Modifikacije na lokalnoj grani
