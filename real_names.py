@@ -2,7 +2,7 @@ class Welcome:
     """
     The class Welcome contains all real names of buttons, fields and hyperlinks from Welcome Screen. With Welcome.nameOfGetMethod() we call them.
     """
-    def __init__(self):
+    def __init__(self, me, you, he, she, it, there):
         self.welcomeWindow = "{caption='' isvisible='ovi nije bas true' type='org.eclipse.swt.widgets.Shell'}"
         self.devicePanelProjectHyperlink = "{caption='Divajs' id='devicePanelWizardLink' styletype='hyperlink' visible='true' window=" + self.welcomeWindow + "}"
         self.systemPanelProjectHyperlink = "{caption='System' id='systemPanelWizardLink' styletype='hyperlink' visible='true' window=" + self.welcomeWindow + "}"
