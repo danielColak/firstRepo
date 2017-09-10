@@ -13,3 +13,6 @@ remote master
 
 # Modifikacije na lokalnoj grani
 #New content added on branch
+
+# Modifikacije na lokalnoj grani
+#New content added on branch
