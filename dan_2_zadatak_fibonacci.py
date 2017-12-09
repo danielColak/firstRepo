@@ -1,3 +1,4 @@
+work done on remote
 def fibonacci(n):
     f1 = 1
     f2 = 0
@@ -21,3 +22,5 @@ for i in fibonacci(9):
     print i
 	
 ovo je kod dodat na one branch
+
+
