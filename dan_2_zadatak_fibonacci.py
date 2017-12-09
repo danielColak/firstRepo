@@ -7,16 +7,6 @@ def fibonacci(n):
         print "Stigao sam do %d" % f
 		changes on testBranch
 changes on testBranch
-changes on testBranch
-changes on testBranch
-changes on testBranch
-changes on testBranch
-changes on testBranch
-changes on testBranch
-changes on testBranch
-changes on testBranch
-changes on testBranch
-changes on testBranch
         f = f1 + f2
         yield f
         f2 = f1
