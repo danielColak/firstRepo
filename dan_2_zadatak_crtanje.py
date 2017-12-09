@@ -4,6 +4,18 @@ def kvadrat(dimenzije, simbol="#"):
             print(simbol *dimenzije)
         else:
             print(simbol + " " *(dimenzije-2) + simbol)
+			changes on testBranch
+changes on testBranch
+changes on testBranch
+changes on testBranch
+changes on testBranch
+changes on testBranch
+changes on testBranch
+changes on testBranch
+changes on testBranch
+changes on testBranch
+changes on testBranch
+changes on testBranch
 			print(simbol + " " *(dimenzije-3) + simbol)
 			print(simbol + " " *(dimenzije-4) + simbol)
 			print(simbol + " " *(dimenzije-5) + simbol)
