@@ -12,9 +12,7 @@ def main():
 	x a s d e wq v fss d
 	x a s d e wq v fss d
 dfadf
-adf
-adfafsd
-asf
+
 def quadratic_equation_solution(a, b, c):
     if a != 0:
         x = (-b + (b ** 2 - 4 * a * c) ** 0.5) / (2 * a)
