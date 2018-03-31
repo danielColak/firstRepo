@@ -1,3 +1,9 @@
+laptop
+laptoplaptop
+laptoplaptoplaptop
+laptoplaptoplaptoplaptop
+
+
 class Welcome:
     """
     The class Welcome contains all real names of buttons, fields and hyperlinks from Welcome Screen. With Welcome.nameOfGetMethod() we call them.
