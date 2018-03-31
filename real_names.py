@@ -47,3 +47,4 @@ class Welcome:
 		desktop
 		desktopdesktop
 		desktopdesktopdesktop
+		desktopdesktopdesktopdesktop
