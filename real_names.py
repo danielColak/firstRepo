@@ -25,3 +25,12 @@ class Welcome:
         self.recentProjectsListView = "{id='recentProjectsListView' styletype='list-view' visible='true' window=" + self.welcomeWindow + "}"
         self.CheckBox = "{caption='Always show at startup' id='alwaysShowOnStartupCheckbox' styletype='check-box white-check-box' visible='true' window=" + self.welcomeWindow + "}"
         self.Project = "{container=" + self.recentProjectsListView + " styletype='cell indexed-cell list-cell' visible='true'}"
+		
+		
+		prva promena real_names.py na desktopu
+		
+		
+		druga promena real_names.py na desktopu
+
+		
+		treca promena real_names.py na desktopu
