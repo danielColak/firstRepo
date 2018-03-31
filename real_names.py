@@ -45,3 +45,4 @@ class Welcome:
 		xxxx
 		
 		desktop
+		desktopdesktop
