@@ -39,3 +39,7 @@ class Welcome:
 		cetvrta promena real_names.py na desktopu
 		
 		1		2		3		4
+		x
+		xx
+		xxx
+		xxxx
