@@ -48,3 +48,9 @@ class Welcome:
 		desktopdesktop
 		desktopdesktopdesktop
 		desktopdesktopdesktopdesktop
+		
+		
+		9
+		99
+		999
+		9999
