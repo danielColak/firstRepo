@@ -1,4 +1,5 @@
-content added on one_branch
+content modified on remote branch
+test line to see if there is some conflict
 
 
 this is content added on one branch
