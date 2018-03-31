@@ -43,3 +43,5 @@ class Welcome:
 		xx
 		xxx
 		xxxx
+		
+		desktop
