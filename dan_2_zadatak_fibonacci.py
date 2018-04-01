@@ -21,7 +21,7 @@ sd
 for i in fibonacci(9):
     print i
 	
-ovo je kod dodat na one branch
+ovo je kod dodat na one original
 
 origin origin
 origin origin
