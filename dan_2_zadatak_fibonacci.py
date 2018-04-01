@@ -23,4 +23,10 @@ for i in fibonacci(9):
 	
 ovo je kod dodat na one branch
 
+origin origin
+origin origin
+origin origin
+origin origin
+origin origin
+origin origin
 
