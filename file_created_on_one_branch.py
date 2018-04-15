@@ -1,6 +1,3 @@
-modification on remote "one"
-modification on remote "one"
-modification on remote "one"
-modification on remote "one"
+without rebaseing the local one
 
 only content from XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
