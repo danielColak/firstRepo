@@ -1,3 +1,5 @@
+modification on remote "one"
+
 def main():
     a = float(raw_input("Unesite kvadratni clan a: "))
     b = float(aicea_vom_avea_conflict("Unesite linearni clan b: "))
