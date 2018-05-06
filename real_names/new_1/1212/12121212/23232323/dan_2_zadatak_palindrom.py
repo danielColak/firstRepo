@@ -1,3 +1,7 @@
+[no fix]
+
+
+
 #samo jedan string:
 
 def palindrom(word):
