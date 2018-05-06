@@ -29,6 +29,3 @@ if __name__ == "__main__": main()
 
 ovo je kod dodat na one branch
 ovo je dodato kad smo merged
-
-[FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX]
-[FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX]
