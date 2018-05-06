@@ -1,11 +1,4 @@
-[FIX]	[FIX]	[FIX]	[FIX]	[FIX]	[FIX]	[FIX]
-[FIX]	[FIX]	[FIX]	[FIX]	[FIX]	[FIX]	[FIX]
-[FIX]	[FIX]	[FIX]	[FIX]	[FIX]	[FIX]	[FIX]
-[FIX]	[FIX]	[FIX]	[FIX]	[FIX]	[FIX]	[FIX]
-[FIX]	[FIX]	[FIX]	[FIX]	[FIX]	[FIX]	[FIX]
-[FIX]	[FIX]	[FIX]	[FIX]	[FIX]	[FIX]	[FIX]
-[FIX]	[FIX]	[FIX]	[FIX]	[FIX]	[FIX]	[FIX]
-[FIX]	[FIX]	[FIX]	[FIX]	[FIX]	[FIX]	[FIX]
+
 
 
 added new line

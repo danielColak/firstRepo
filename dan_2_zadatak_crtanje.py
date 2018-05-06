@@ -1,11 +1,3 @@
-ovaj nema FIX
-ovaj nema FIX
-ovaj nema FIX
-ovaj nema FIX
-ovaj nema FIX
-ovaj nema FIX
-ovaj nema FIX
-ovaj nema FIX
 
 
 
