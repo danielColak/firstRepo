@@ -1,21 +1,3 @@
-[FIX]	[FIX]	[FIX][FIX]	[FIX]	[FIX][FIX]	[FIX]	[FIX][FIX]	[FIX]	[FIX]
-[FIX]	[FIX]	[FIX][FIX]	[FIX]	[FIX][FIX]	[FIX]	[FIX][FIX]	[FIX]	[FIX]
-no fix
-no fix
-no fix
-no fix
-no fix
-no fix
-no fix
-no fix
-no fix
-no fix
-no fix
-no fix
-no fix
-no fix
-
-
 def main():
     a = float(raw_input("Unesite kvadratni clan a: "))
     b = float(aicea_vom_avea_conflict("Unesite linearni clan b: "))

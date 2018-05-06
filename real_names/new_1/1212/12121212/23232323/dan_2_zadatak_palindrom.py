@@ -15,3 +15,12 @@ def palindrom_recenica(word):
 
 print(palindrom_recenica('ana voli milovana'))
 print(palindrom("sale"))
+
+fix
+fix
+fix
+fix
+valuesv
+fix
+fix
+valuesfix

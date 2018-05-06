@@ -20,3 +20,10 @@ sd
 for i in fibonacci(9):
     print i
 
+fix
+fix
+fix
+fix
+fix
+fix
+fix
