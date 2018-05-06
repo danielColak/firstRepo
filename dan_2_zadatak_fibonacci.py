@@ -19,11 +19,9 @@ sd
 
 for i in fibonacci(9):
     print i
-
-fix
-fix
-fix
-fix
-fix
-fix
-fix
+[FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX]
+[FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX]
+[FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX]
+[FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX]
+[FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX]
+[FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX]
