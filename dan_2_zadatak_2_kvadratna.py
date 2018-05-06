@@ -3,6 +3,10 @@
 no fix
 no fix
 no fix
+no fix
+no fix
+no fix
+
 
 def main():
     a = float(raw_input("Unesite kvadratni clan a: "))
