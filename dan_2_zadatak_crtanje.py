@@ -1,4 +1,13 @@
-modification on remote "one"
+ovaj nema FIX
+ovaj nema FIX
+ovaj nema FIX
+ovaj nema FIX
+ovaj nema FIX
+ovaj nema FIX
+ovaj nema FIX
+ovaj nema FIX
+
+
 
 def kvadrat(dimenzije, simbol="#"):
     for i in range(dimenzije):
