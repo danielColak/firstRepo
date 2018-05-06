@@ -1,4 +1,5 @@
-modification on remote "one"
+[FIX]	[FIX]	[FIX][FIX]	[FIX]	[FIX][FIX]	[FIX]	[FIX][FIX]	[FIX]	[FIX]
+[FIX]	[FIX]	[FIX][FIX]	[FIX]	[FIX][FIX]	[FIX]	[FIX][FIX]	[FIX]	[FIX]
 
 def main():
     a = float(raw_input("Unesite kvadratni clan a: "))
