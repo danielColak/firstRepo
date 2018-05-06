@@ -26,7 +26,3 @@ added on remote
 
 # Modifikacije na lokalnoj grani
 #New content added on branch
-[FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX]
-[FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX]
-[FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX]
-[FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX]
