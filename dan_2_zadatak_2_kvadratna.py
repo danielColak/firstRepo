@@ -1,5 +1,6 @@
 [FIX]	[FIX]	[FIX][FIX]	[FIX]	[FIX][FIX]	[FIX]	[FIX][FIX]	[FIX]	[FIX]
 [FIX]	[FIX]	[FIX][FIX]	[FIX]	[FIX][FIX]	[FIX]	[FIX][FIX]	[FIX]	[FIX]
+no fix
 
 def main():
     a = float(raw_input("Unesite kvadratni clan a: "))
