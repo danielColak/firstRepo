@@ -15,3 +15,19 @@ def palindrom_recenica(word):
 
 print(palindrom_recenica('ana voli milovana'))
 print(palindrom("sale"))
+
+fix
+fix
+fix
+fix
+valuesv
+fix
+fix
+valuesfix
+[FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX]
+[FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX]
+[FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX]
+[FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX]
+[FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX]
+[FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX]
+>>>>>>> ff53f3d... [FIX][FIX] This is the common squished of ONE ONE TWO TWO THREE THREE
