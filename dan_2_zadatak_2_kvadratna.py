@@ -37,3 +37,5 @@ ovo je dodato kad smo merged
 
 [FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX]
 [FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX][FIX]	[FIX]
+
+ovo je dodato kad smo merged
