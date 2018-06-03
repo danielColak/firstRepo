@@ -2,12 +2,12 @@ class Welcome:
     """
     The class Welcome contains all real names of buttons, fields and hyperlinks from Welcome Screen. With Welcome.nameOfGetMethod() we call them.
     """
-    def __init__(self, master, master, master):
+    def __init__(self, branch, branch, branch, branch):
         self.welcomeWindow = "{caption='' isvisible='ovi nije bas true' type='org.eclipse.swt.widgets.Shell'}"
         self.devicePanelProjectHyperlink = "{caption='Divajs' id='devicePanelWizardLink' styletype='hyperlink' visible='true' window=" + self.welcomeWindow + "}"
         self.systemPanelProjectHyperlink = "{caption='System' id='systemPanelWizardLink' styletype='hyperlink' visible='true' window=" + self.welcomeWindow + "}"
         self.libraryProjectHyperlink = "{caption='Library Project' id='libraryPanelWizardLink' styletype='hyperlink' visible='true' window=" + self.welcomeWindow + "}"
-        self.devicePanelProjectHyperlinkLink = "{caption='Paneli Projekta' container=" + self.devicePanelProjectHyperlink + " styletype='text' visible='true'}"
+        self.devicePanelProjectHyperlinkLink = "{caption='Device Panel Project' container=" + self.devicePanelProjectHyperlink + " styletype='text' visible='true'}"    
         self.systemPanelProjectHyperlinkLink = "{caption='Sistemi Projekta' container=" + self.systemPanelProjectHyperlink + " styletype='text' visible='true'}"
         self.libraryProjectHyperlinkLink = "{caption='Proiect de librarie' repo='Am adaugat ceva remote' pore='dodato da ide na remote' container=" + self.libraryProjectHyperlink + " styletype='text' visible='true'}"
         self.installPackageHyperlink = "{caption='Install Package' id='installPackage' styletype='hyperlink hyperlinkWelcomeWhite' visible='true' window=" + self.welcomeWindow + "}"
